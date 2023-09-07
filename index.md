@@ -3,3 +3,5 @@
 ```
 $ git init
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Eat steak
